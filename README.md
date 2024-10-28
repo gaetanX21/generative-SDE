@@ -1,6 +1,7 @@
 # Score-Based Generative Modeling in PyTorch
 
 ![pc_sample](https://github.com/gaetanX21/generative-SDE/blob/main/report/assets/pc.png)
+
 _Realistic generated MNIST samples using Predictor-Corrector Sampling with reverse SDE + Langevin Dynamics._
 
 ## Overview
